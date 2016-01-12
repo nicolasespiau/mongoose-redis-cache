@@ -1,6 +1,6 @@
 {
   "name": "mongoose-redis-cache",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Espiau Nicolas <nicolas@schoolmouv.fr>",
   "description": "Caches Database querys and aggregations the easy way.",
   "main": "./index",
