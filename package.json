@@ -1,12 +1,12 @@
 {
   "name": "mongoose-redis-cache",
-  "version": "0.1.0",
+  "version": "0.4.3",
   "author": "Espiau Nicolas <nicolas@schoolmouv.fr>",
   "description": "Caches Database querys and aggregations the easy way.",
   "main": "./index",
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:nicolas_espiau/mongoose-redis-cache.git"
+    "url": "git@gitlab.com:nicolas_espiau/mongoose-redis-cache.git"
   },
   "keywords": [
     "mongoose",
